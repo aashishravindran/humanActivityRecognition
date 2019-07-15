@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HaRa</string>
+    <string name="action_settings">Settings</string>
+    <string name="camera">Begin</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="mocrowave_reco">Hello! You have just opened the Microwave. Please use it carefully and make sure to close it well after using. Cook as per need.
+    </string>
+</resources>
